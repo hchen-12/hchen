@@ -1,4 +1,4 @@
-# hchen
+# portfolio
 
 ## Projects
 ### Project 1
