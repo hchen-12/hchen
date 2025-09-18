@@ -8,7 +8,7 @@
 ### Project 2
 - Description
 
-  ### Project 3
+### Project 3
 - Description
 
 ### Project 4
