@@ -24,8 +24,8 @@
 - Harvey Mudd College | B.S. Engineering (2024)
 - Carnegie Mellon University | M.S. Mechanical Engineering - Research Track (2026)
 
-  # Research and Work Experience
-  - Experience 1
-  - Experience 2
-  - Experience 3
+# Research and Work Experience
+- Experience 1
+- Experience 2
+- Experience 3
   
