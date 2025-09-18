@@ -1,4 +1,5 @@
-# portfolio
+## Introduction
+- *insert blurb about me*
 
 ## Projects
 ### Project 1
