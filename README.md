@@ -1,5 +1,6 @@
 # Introduction
 - *insert blurb about me*
+- [Resume](
 
 # Projects
 ### Project 1
